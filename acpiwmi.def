@@ -1,0 +1,10 @@
+LIBRARY ACPIWMI
+EXPORTS
+	AsWMI_Open=AsWMI_Open
+	AsWMI_Close=AsWMI_Close
+	AsWMI_CheckSupport=AsWMI_CheckSupport
+	AsWMI_NB_RegisterEvent=AsWMI_NB_RegisterEvent
+	AsWMI_NB_GetDeviceStatus=AsWMI_NB_GetDeviceStatus
+	AsWMI_NB_GetDeviceStatus_MoreBYTE=AsWMI_NB_GetDeviceStatus_MoreBYTE
+	AsWMI_NB_DeviceControl=AsWMI_NB_DeviceControl
+	AsWMI_NB_DeviceControl_2arg=AsWMI_NB_DeviceControl_2arg
